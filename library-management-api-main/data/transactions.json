@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "trans1",
+    "userId": "user1",
+    "bookId": "book1",
+    "borrowDate": "2024-01-15T00:00:00.000Z",
+    "dueDate": "2024-02-14T00:00:00.000Z",
+    "status": "BORROWED",
+    "lateFee": 0,
+    "renewalCount": 0
+  },
+  {
+    "_id": "trans2",
+    "userId": "user2",
+    "bookId": "book2",
+    "borrowDate": "2024-01-10T00:00:00.000Z",
+    "dueDate": "2024-02-01T00:00:00.000Z",
+    "returnDate": "2024-01-30T00:00:00.000Z",
+    "status": "RETURNED",
+    "lateFee": 0,
+    "renewalCount": 1
+  },
+  {
+    "_id": "trans3",
+    "userId": "user3",
+    "bookId": "book3",
+    "borrowDate": "2024-01-05T00:00:00.000Z",
+    "dueDate": "2024-01-19T00:00:00.000Z",
+    "returnDate": "2024-01-25T00:00:00.000Z",
+    "status": "RETURNED",
+    "lateFee": 3,
+    "renewalCount": 0
+  },
+  {
+    "_id": "trans4",
+    "userId": "user1",
+    "bookId": "book4",
+    "borrowDate": "2024-02-01T00:00:00.000Z",
+    "dueDate": "2024-03-02T00:00:00.000Z",
+    "status": "BORROWED",
+    "lateFee": 0,
+    "renewalCount": 0
+  }
+]

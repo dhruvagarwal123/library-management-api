@@ -1,0 +1,64 @@
+[
+  {
+    "_id": "user1",
+    "name": "John Doe",
+    "email": "john@library.com",
+    "membershipType": "PREMIUM",
+    "isActive": true,
+    "borrowedBooks": [],
+    "phone": "+1-555-123-4567",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "USA"
+    },
+    "createdAt": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "_id": "user2",
+    "name": "Jane Smith",
+    "email": "jane@library.com",
+    "membershipType": "STUDENT",
+    "isActive": true,
+    "borrowedBooks": [],
+    "phone": "+1-555-987-6543",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "02101",
+      "country": "USA"
+    },
+    "createdAt": "2024-02-01T00:00:00.000Z"
+  },
+  {
+    "_id": "user3",
+    "name": "Mike Johnson",
+    "email": "mike@library.com",
+    "membershipType": "BASIC",
+    "isActive": true,
+    "borrowedBooks": [],
+    "createdAt": "2024-02-10T00:00:00.000Z"
+  },
+  {
+    "_id": "user4",
+    "name": "Sarah Wilson",
+    "email": "sarah@library.com",
+    "membershipType": "PREMIUM",
+    "isActive": true,
+    "borrowedBooks": [],
+    "phone": "+1-555-456-7890",
+    "createdAt": "2024-01-20T00:00:00.000Z"
+  },
+  {
+    "_id": "user5",
+    "name": "David Brown",
+    "email": "david@library.com",
+    "membershipType": "STUDENT",
+    "isActive": true,
+    "borrowedBooks": [],
+    "createdAt": "2024-02-05T00:00:00.000Z"
+  }
+]

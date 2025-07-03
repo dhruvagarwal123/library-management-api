@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "book1",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "ISBN": "978-0-7432-7356-5",
+    "genre": "Fiction",
+    "publishedYear": 1925,
+    "availableQuantity": 3,
+    "totalQuantity": 5,
+    "description": "A classic American novel set in the Jazz Age",
+    "publisher": "Scribner",
+    "language": "English",
+    "pageCount": 180
+  },
+  {
+    "_id": "book2",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "ISBN": "978-0-06-112008-4",
+    "genre": "Fiction",
+    "publishedYear": 1960,
+    "availableQuantity": 2,
+    "totalQuantity": 4,
+    "description": "A gripping tale of racial injustice and childhood innocence",
+    "publisher": "J.B. Lippincott & Co.",
+    "language": "English",
+    "pageCount": 281
+  },
+  {
+    "_id": "book3",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "ISBN": "978-0-262-03384-8",
+    "genre": "Technology",
+    "publishedYear": 2009,
+    "availableQuantity": 1,
+    "totalQuantity": 3,
+    "description": "Comprehensive introduction to algorithms and data structures",
+    "publisher": "MIT Press",
+    "language": "English",
+    "pageCount": 1312
+  },
+  {
+    "_id": "book4",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "ISBN": "978-0-316-76948-0",
+    "genre": "Fiction",
+    "publishedYear": 1951,
+    "availableQuantity": 4,
+    "totalQuantity": 6,
+    "description": "A controversial coming-of-age story",
+    "publisher": "Little, Brown and Company",
+    "language": "English",
+    "pageCount": 234
+  },
+  {
+    "_id": "book5",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "ISBN": "978-0-553-10953-5",
+    "genre": "Science",
+    "publishedYear": 1988,
+    "availableQuantity": 2,
+    "totalQuantity": 3,
+    "description": "A landmark volume in science writing",
+    "publisher": "Bantam Books",
+    "language": "English",
+    "pageCount": 256
+  }
+]
